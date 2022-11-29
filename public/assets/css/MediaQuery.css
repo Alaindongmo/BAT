@@ -1,0 +1,56 @@
+@media screen and (max-width: 800px){
+    #background{
+        height: 100vh;
+        width: 100%;
+    }
+    img#image2 {
+        width: 100px;
+    }
+    #beema {
+        font-size: 25px;
+    margin-top: 25px;
+    margin-left: -2px;
+    }
+    img#image2 {
+        width: 91px;
+    }
+    button#btn1 {
+        font-size: 15px;
+        width: 120px;
+        padding-left: 24px;
+        padding-right: 24px;
+    }
+    div#p2 {
+        /* font-size: 29px; */
+        margin-top: 22px;
+    }
+    #p1 {
+        margin-top: 85px;
+        margin-bottom: 66px;
+    }
+    .titre {
+        margin: 33px;
+        font-weight: 900px;
+        font-size: 30px;
+        /* line-height: 40px; */
+    }
+    img.image {
+        width: 300px;
+        }
+        .text{
+        margin: auto;
+        font-weight: 400;
+        font-size: 60px;
+        line-height: 30px;
+        letter-spacing: 3px;
+        word-spacing: 3px;
+        }
+        .text{
+            text-align: center;
+            width: 100%;
+            font-size: 30px;
+            font-weight: 500;
+            letter-spacing: 2px;
+            word-spacing: 2px;
+        }
+}
